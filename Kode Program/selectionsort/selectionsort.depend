@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608454824 source:d:\najla\projek\selectionsort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

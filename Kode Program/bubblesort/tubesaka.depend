@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608641006 source:d:\najla\projek\tubesaka\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1608641006 source:d:\najla\projek\kode program\bubblesort\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608644768 source:d:\najla\projek\mergesort\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608635810 source:d:\najla\projek\insertionsort\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608473260 source:d:\najla\projek\quicksort2\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
